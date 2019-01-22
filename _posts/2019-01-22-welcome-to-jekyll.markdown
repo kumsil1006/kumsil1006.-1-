@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Soobeen Yoon"
 date:   2019-01-22 22:09:56 +0900
 categories: jekyll update
 ---
